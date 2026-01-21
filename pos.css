@@ -1,0 +1,29 @@
+div{
+    height:100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    background-color: navy;
+}
+#b1{
+    position: static;
+}
+#b2{
+    position: relative;
+    top:20px;
+    left:10px;
+    background-color: tomato;
+    z-index: 1;
+    
+}
+#b3{
+    position:absolute;
+    top:10px;
+    background-color: aqua;
+    z-index: 2;
+}
+#b4{
+     background-color: yellow;
+     position: fixed;
+     top:0px;
+}

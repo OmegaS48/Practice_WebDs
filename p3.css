@@ -1,0 +1,31 @@
+*{
+    padding:0px;
+    margin: 0px;
+    color: yellow;
+}
+body{
+
+    background-color: blue;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+    margin-right: 200px;
+}
+div{
+    background-color: black;
+    border: 5px solid white;
+    height: 60px;
+}
+#a{
+    margin-right: 200px;
+}
+#b{
+    margin-right: 200px;
+}
+#c{
+    margin-right: 200px;
+}

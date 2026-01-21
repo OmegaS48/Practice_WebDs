@@ -1,0 +1,46 @@
+h1{
+    text-align:center;
+}
+.myclass{
+    text-align: center;
+    text-decoration: blue underline;
+    font-weight:bolder;
+}
+.Love{
+    text-align: center;
+    font-weight: 600;
+    font-family: cursive;
+    background-color: blue;
+    height:50px;
+}
+#a1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    line-height: 40px;
+    text-transform: none;
+    height:250px;
+    background-color: yellow;
+    text-align: center;
+}
+#a2{
+    height:30x;
+    background-color: greenyellow;
+    border:5px solid navy;
+    text-align: center;
+    border-radius: 14px;
+}
+#a3{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    background-color: aquamarine;
+    text-align: center;
+}
+#a4{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    padding-left: 25px;
+    padding: 50px;
+    margin: 20px;
+}

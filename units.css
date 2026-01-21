@@ -1,0 +1,12 @@
+#a{
+    width: 200px;
+    background-color: darkblue;
+}
+#b{
+    width: 50%;
+    background-color: skyblue;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    margin-right: 10%;
+}
