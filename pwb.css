@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    border: none;
+    background-color: inherit;
+}
+#b1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: inline-block;
+    font-size: large;
+    background-image: url("yt.png");
+    background-size: cover;
+}
+#b2{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    display: inline-block;
+    font-size: large;
+    background-image: url("rt.png");
+    background-size: cover;
+}
+#b3{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: inline-block;
+    font-size: large;
+    background-image: url("ln.png");
+    background-size: cover;
+}
