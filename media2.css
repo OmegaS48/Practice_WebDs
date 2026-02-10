@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+div{
+    background-color: lime;
+    height: 200px;
+    width: 200px;
+    border: 2px solid gold;
+}
+
+@media(width:424px){
+    div{
+        background-color: yellow;
+        border: 2px solid blue;
+    }
+}
